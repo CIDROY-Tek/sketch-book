@@ -1,6 +1,6 @@
 # sketch_book
 
-A new Flutter project.
+Sketch book is a library that includes features like paint, drag drop image and adding text box.
 
 ## Getting Started
 
